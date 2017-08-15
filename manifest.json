@@ -1,0 +1,7 @@
+{
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs0kvQ4GJHjGyO7ynDEJ3+lAPcr8dATNGkYs62qXUyW5RpAVRHxO9UqewMFivSWzNmQAcIGDKrVU2NVhLmDk33j8DshrtE149xJiXTU4u0pvgPEYXapF6HqB90SQVk4wrlJiZYNhH6UloiUaCal0pwo9CtzHpvDmjkFCAZBbV1u8mWcVtJzEdbfCAWOrQLGNlix9U1i9Dt1K1IEPzVEERZIfkiSHHN3mAk/9pNdD0PzjSebHIs8BpcViikSQJqhUxgeOJlncaBJ4otj9HlrLnqyssHSLTwQkp51uyywrzBRQKeggyNm95av/77ECmCrvlMqHyTDPcA72N5Rj00jO/mwIDAQAB",
+  "manifest_version": 2,
+  "version": "1",
+  "name": "Infinite Repaint Test",
+  "web_accessible_resources": ["iframe.html"]
+}
